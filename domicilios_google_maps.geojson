@@ -1,0 +1,2597 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9504462,
+          19.2860041
+        ]
+      },
+      "properties": {
+        "name": "170",
+        "address": "C. Sur 4 16, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9483178,
+          19.2844163
+        ]
+      },
+      "properties": {
+        "name": "214",
+        "address": "Calle Sur 6 761, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94556589999999,
+          19.2835537
+        ]
+      },
+      "properties": {
+        "name": "225",
+        "address": "Sur 7 43, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95476099999999,
+          19.2838678
+        ]
+      },
+      "properties": {
+        "name": "262",
+        "address": "Av Anáhuac 1739, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9526557,
+          19.283155999999998
+        ]
+      },
+      "properties": {
+        "name": "264",
+        "address": "Av Anáhuac 1958, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9423527,
+          19.2826949
+        ]
+      },
+      "properties": {
+        "name": "248",
+        "address": "Sur 8 93, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9522776,
+          19.2858076
+        ]
+      },
+      "properties": {
+        "name": "179",
+        "address": "Av Tlaloc 347, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9426998,
+          19.2836022
+        ]
+      },
+      "properties": {
+        "name": "219",
+        "address": "Iglesia del Dios Vivo \"El Buen Pastor\" EBP, 56610, Pte. 1 2, Niños Heroes, Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9527277,
+          19.2882695
+        ]
+      },
+      "properties": {
+        "name": "114",
+        "address": "Calle Nte. 1 630, Maria Isabel, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95441029999999,
+          19.285740699999998
+        ]
+      },
+      "properties": {
+        "name": "205",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95181219999999,
+          19.2834579
+        ]
+      },
+      "properties": {
+        "name": "259",
+        "address": "Av Anáhuac 2035, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9432052,
+          19.2823132
+        ]
+      },
+      "properties": {
+        "name": "250",
+        "address": "Av Anáhuac 3845, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9547252,
+          19.2852127
+        ]
+      },
+      "properties": {
+        "name": "208",
+        "address": "Calle Sur 6 125, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9530585,
+          19.2868756
+        ]
+      },
+      "properties": {
+        "name": "150",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9513545,
+          19.2805779
+        ]
+      },
+      "properties": {
+        "name": "283",
+        "address": "Sur 13 327, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9512587,
+          19.2792206
+        ]
+      },
+      "properties": {
+        "name": "294",
+        "address": "Sur 16 545, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9451375,
+          19.284585
+        ]
+      },
+      "properties": {
+        "name": "196",
+        "address": "Av Tlaloc 57, Niños Heroes, 56610 Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.951672,
+          19.2848679
+        ]
+      },
+      "properties": {
+        "name": "211",
+        "address": "Calle Sur 6 435, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9520404,
+          19.2813333
+        ]
+      },
+      "properties": {
+        "name": "281",
+        "address": "Sur 12 364, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9508238,
+          19.2835926
+        ]
+      },
+      "properties": {
+        "name": "258",
+        "address": "🌸LOLLY LOOP NAILS 🌸, Sur 8 10, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95013449999999,
+          19.2809435
+        ]
+      },
+      "properties": {
+        "name": "17",
+        "address": "Pte 10 572, Alfredo Baranda, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9536321,
+          19.2801693
+        ]
+      },
+      "properties": {
+        "name": "291",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9557277,
+          19.2859876
+        ]
+      },
+      "properties": {
+        "name": "206",
+        "address": "Av Tlaloc 36, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9548677,
+          19.2835564
+        ]
+      },
+      "properties": {
+        "name": "1",
+        "address": "Av Anáhuac 1748, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95341669999999,
+          19.284303299999998
+        ]
+      },
+      "properties": {
+        "name": "236",
+        "address": "Sur 7 233, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9503802,
+          19.2654756
+        ]
+      },
+      "properties": {
+        "name": "122",
+        "address": "Pte. 6 13, San Miguel Xico, 56613 Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9492918,
+          19.2849549
+        ]
+      },
+      "properties": {
+        "name": "200",
+        "address": "Casa De Oracion Jesucristo Es El Senor, Calle Sur 5, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9483582,
+          19.285017099999997
+        ]
+      },
+      "properties": {
+        "name": "199",
+        "address": "Av Tlaloc 926, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9456271,
+          19.283202499999998
+        ]
+      },
+      "properties": {
+        "name": "244",
+        "address": "Sur 8 6, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94773599999999,
+          19.2830697
+        ]
+      },
+      "properties": {
+        "name": "255",
+        "address": "Manzana 037, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95273949999999,
+          19.279509
+        ]
+      },
+      "properties": {
+        "name": "293",
+        "address": "Manzana 026, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9514039,
+          19.286226799999998
+        ]
+      },
+      "properties": {
+        "name": "171",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9534657,
+          19.2850784
+        ]
+      },
+      "properties": {
+        "name": "209",
+        "address": "Calle Sur 6 241, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9473357,
+          19.284792799999998
+        ]
+      },
+      "properties": {
+        "name": "198",
+        "address": "Av Tlaloc 1062, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9542924,
+          19.2866154
+        ]
+      },
+      "properties": {
+        "name": "174",
+        "address": "Manzana 023, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9532582,
+          19.2855383
+        ]
+      },
+      "properties": {
+        "name": "204",
+        "address": "Av Tlaloc 252, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94227579999999,
+          19.282328
+        ]
+      },
+      "properties": {
+        "name": "249",
+        "address": "Av Anáhuac 142, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94459649999999,
+          19.283580699999998
+        ]
+      },
+      "properties": {
+        "name": "224",
+        "address": "Calle Sur 6 1126, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9503972,
+          19.2852073
+        ]
+      },
+      "properties": {
+        "name": "201",
+        "address": "Av Tlaloc 556, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9525501,
+          19.2846315
+        ]
+      },
+      "properties": {
+        "name": "232",
+        "address": "Calle Sur 6 334, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9438551,
+          19.282444299999998
+        ]
+      },
+      "properties": {
+        "name": "251",
+        "address": "Av Anáhuac 3751, 1 Seccion, Niños Heroes, 56610 Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9446214,
+          19.284057999999998
+        ]
+      },
+      "properties": {
+        "name": "217",
+        "address": "Pte. 4 1128, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9494047,
+          19.2845436
+        ]
+      },
+      "properties": {
+        "name": "213",
+        "address": "Calle Sur 6 641, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95386959999999,
+          19.2815899
+        ]
+      },
+      "properties": {
+        "name": "279",
+        "address": "Sur 12 168, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9525472,
+          19.2835558
+        ]
+      },
+      "properties": {
+        "name": "260",
+        "address": "Av Anáhuac 1955, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "name": "243",
+        "address": "PTE.5, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9496339,
+          19.2837133
+        ]
+      },
+      "properties": {
+        "name": "240",
+        "address": "Manzana 031, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95244729999999,
+          19.2849929
+        ]
+      },
+      "properties": {
+        "name": "210",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94384099999999,
+          19.283365699999997
+        ]
+      },
+      "properties": {
+        "name": "223",
+        "address": "Sur 7 215, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9460941,
+          19.284191699999997
+        ]
+      },
+      "properties": {
+        "name": "197",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9528945,
+          19.2819342
+        ]
+      },
+      "properties": {
+        "name": "277",
+        "address": "Sur 11 244, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95397539999999,
+          19.2874797
+        ]
+      },
+      "properties": {
+        "name": "148",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94627109999999,
+          19.2832929
+        ]
+      },
+      "properties": {
+        "name": "243",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95076,
+          19.264502999999998
+        ]
+      },
+      "properties": {
+        "name": "135",
+        "address": "Araceli casa tatis, Tienda, Axayacatl, San Miguel Xico, 56613 Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9522022,
+          19.2863705
+        ]
+      },
+      "properties": {
+        "name": "172",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9484262,
+          19.2835884
+        ]
+      },
+      "properties": {
+        "name": "241",
+        "address": "Manzana 030, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9523782,
+          19.2800105
+        ]
+      },
+      "properties": {
+        "name": "290",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9530846,
+          19.2864906
+        ]
+      },
+      "properties": {
+        "name": "173",
+        "address": "Manzana 005, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9523456,
+          19.285522399999998
+        ]
+      },
+      "properties": {
+        "name": "203",
+        "address": "Av Tlaloc 334, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9520265,
+          19.2877655
+        ]
+      },
+      "properties": {
+        "name": "124",
+        "address": "Av. Dr. Covarrubias 123, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9422386,
+          19.2830978
+        ]
+      },
+      "properties": {
+        "name": "221",
+        "address": "Sur 7 548, Niños Heroes, 56610 Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95315869999999,
+          19.2874598
+        ]
+      },
+      "properties": {
+        "name": "147",
+        "address": "C. Sur 1 26, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9518374,
+          19.287214799999997
+        ]
+      },
+      "properties": {
+        "name": "146",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95039539999999,
+          19.2865563
+        ]
+      },
+      "properties": {
+        "name": "153",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.953019,
+          19.281466299999998
+        ]
+      },
+      "properties": {
+        "name": "280",
+        "address": "Sur 12 264, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9556661,
+          19.286408299999998
+        ]
+      },
+      "properties": {
+        "name": "176",
+        "address": "C. Sur 4 27, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9536016,
+          19.282925499999997
+        ]
+      },
+      "properties": {
+        "name": "270",
+        "address": "Sur 9 154, Niños Heroes, 56610 Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9426043,
+          19.284317899999998
+        ]
+      },
+      "properties": {
+        "name": "193",
+        "address": "Restaurante Flor de Oaxaca, Av Tlaloc 1654, Niños Heroes, 56610 Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95204939999999,
+          19.2867256
+        ]
+      },
+      "properties": {
+        "name": "151",
+        "address": "Manzana 010, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9556728,
+          19.2867318
+        ]
+      },
+      "properties": {
+        "name": "175",
+        "address": "Manzana 037, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94438,
+          19.2845559
+        ]
+      },
+      "properties": {
+        "name": "195",
+        "address": "Av Tlaloc 1438, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94389699999999,
+          19.2829318
+        ]
+      },
+      "properties": {
+        "name": "246",
+        "address": "Sur 8 239, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95096629999999,
+          19.2819297
+        ]
+      },
+      "properties": {
+        "name": "274",
+        "address": "Sur 11 479, Alfredo Baranda, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9550558,
+          19.2815689
+        ]
+      },
+      "properties": {
+        "name": "24",
+        "address": "Sur 12 42, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95489099999999,
+          19.2821552
+        ]
+      },
+      "properties": {
+        "name": "23",
+        "address": "Sur 11 71, Niños Heroes, 56610 Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95137079999999,
+          19.287736799999998
+        ]
+      },
+      "properties": {
+        "name": "125",
+        "address": "Av. Dr. Covarrubias 20, Maria Isabel, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9520936,
+          19.281610399999998
+        ]
+      },
+      "properties": {
+        "name": "276",
+        "address": "Sur 12 361, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9535796,
+          19.2838818
+        ]
+      },
+      "properties": {
+        "name": "261",
+        "address": "Av Anáhuac 1885, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.952399,
+          19.280485199999998
+        ]
+      },
+      "properties": {
+        "name": "287",
+        "address": "Sur 13 256, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9515404,
+          19.284498799999998
+        ]
+      },
+      "properties": {
+        "name": "231",
+        "address": "Calle Sur 6 15, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.954878,
+          19.280672499999998
+        ]
+      },
+      "properties": {
+        "name": "7",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9537742,
+          19.2833805
+        ]
+      },
+      "properties": {
+        "name": "263",
+        "address": "Saia Barbería, Av Anáhuac 1838, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9513592,
+          19.2865753
+        ]
+      },
+      "properties": {
+        "name": "152",
+        "address": "Manzana 011, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95355479999999,
+          19.284773599999998
+        ]
+      },
+      "properties": {
+        "name": "233",
+        "address": "Calle Sur 6 232, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9461022,
+          19.283800199999998
+        ]
+      },
+      "properties": {
+        "name": "226",
+        "address": "Calle Sur 6 956, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9508285,
+          19.2838369
+        ]
+      },
+      "properties": {
+        "name": "239",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9516182,
+          19.285386199999998
+        ]
+      },
+      "properties": {
+        "name": "202",
+        "address": "Av Tlaloc 448, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95060459999999,
+          19.284406399999998
+        ]
+      },
+      "properties": {
+        "name": "230",
+        "address": "Calle Sur 6 534, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9446311,
+          19.282962599999998
+        ]
+      },
+      "properties": {
+        "name": "245",
+        "address": "Sur 8 133, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9532078,
+          19.2859381
+        ]
+      },
+      "properties": {
+        "name": "178",
+        "address": "Av Tlaloc 245, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9421388,
+          19.284163
+        ]
+      },
+      "properties": {
+        "name": "192",
+        "address": "Av Tlaloc 1724, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9536399,
+          19.2822861
+        ]
+      },
+      "properties": {
+        "name": "271",
+        "address": "Sur 11 155, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.950468,
+          19.2855761
+        ]
+      },
+      "properties": {
+        "name": "181",
+        "address": "Av Tlaloc 547, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9463571,
+          19.282748899999998
+        ]
+      },
+      "properties": {
+        "name": "254",
+        "address": "Av Anáhuac MZ 254 lt 2, Niños héroes 1ra sección, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94212069999999,
+          19.2836613
+        ]
+      },
+      "properties": {
+        "name": "220",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "name": "292",
+        "address": "Sur 16 793-710, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94467569999999,
+          19.282457
+        ]
+      },
+      "properties": {
+        "name": "252",
+        "address": "Asociación Para la Prosperidad Ciudadana A.C, Av Anáhuac Mz 252 Lt 5, Niños Heroes, 56617 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9513331,
+          19.2871556
+        ]
+      },
+      "properties": {
+        "name": "145",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.949568,
+          19.2831759
+        ]
+      },
+      "properties": {
+        "name": "257",
+        "address": "Av Anáhuac 2349, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9484774,
+          19.283023
+        ]
+      },
+      "properties": {
+        "name": "256",
+        "address": "Av Anáhuac 2671, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9484255,
+          19.2839334
+        ]
+      },
+      "properties": {
+        "name": "228",
+        "address": "Sur 7 mz 228 lt 7, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94568729999999,
+          19.2826868
+        ]
+      },
+      "properties": {
+        "name": "253",
+        "address": "Av Anáhuac lt 7-MZ 253, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "name": "270",
+        "address": "Sur 10, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.950783,
+          19.281164099999998
+        ]
+      },
+      "properties": {
+        "name": "282",
+        "address": "Sur 12 468, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94759049999999,
+          19.283969
+        ]
+      },
+      "properties": {
+        "name": "227",
+        "address": "Calle Sur 6 842, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9529599,
+          19.2877541
+        ]
+      },
+      "properties": {
+        "name": "123",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9519505,
+          19.2831491
+        ]
+      },
+      "properties": {
+        "name": "265",
+        "address": "Av Anáhuac 2042, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94294269999999,
+          19.2833793
+        ]
+      },
+      "properties": {
+        "name": "222",
+        "address": "Calle Sur 6 1342, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94756629999999,
+          19.2842904
+        ]
+      },
+      "properties": {
+        "name": "215",
+        "address": "Calle Sur 6 833, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9459803,
+          19.2847425
+        ]
+      },
+      "properties": {
+        "name": "197",
+        "address": "Av Tlaloc 1154, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9504091,
+          19.2639829
+        ]
+      },
+      "properties": {
+        "name": "136",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95356969999999,
+          19.2820097
+        ]
+      },
+      "properties": {
+        "name": "278",
+        "address": "Sur 11 170, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95191779999999,
+          19.2882031
+        ]
+      },
+      "properties": {
+        "name": "113",
+        "address": "Calle Nte. 1 750, Maria Isabel, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9511653,
+          19.281614599999997
+        ]
+      },
+      "properties": {
+        "name": "275",
+        "address": "Sur 12 1085, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95481,
+          19.2810649
+        ]
+      },
+      "properties": {
+        "name": "6",
+        "address": "Manzana 018, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9556728,
+          19.2854426
+        ]
+      },
+      "properties": {
+        "name": "207",
+        "address": "Manzana 034, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9527584,
+          19.2789319
+        ]
+      },
+      "properties": {
+        "name": "296",
+        "address": "MAD MOTORS, Av Tezozomoc 18, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9537902,
+          19.2810319
+        ]
+      },
+      "properties": {
+        "name": "285",
+        "address": "Sur 13 165, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9515835,
+          19.285834899999998
+        ]
+      },
+      "properties": {
+        "name": "180",
+        "address": "Av Tlaloc 433, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9502711,
+          19.2873436
+        ]
+      },
+      "properties": {
+        "name": "126",
+        "address": "C. Sur 1 14, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9475635,
+          19.2834465
+        ]
+      },
+      "properties": {
+        "name": "242",
+        "address": "Manzana 029, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9540868,
+          19.2869813
+        ]
+      },
+      "properties": {
+        "name": "149",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9501543,
+          19.2869968
+        ]
+      },
+      "properties": {
+        "name": "144",
+        "address": "C. Sur 1 27, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94959689999999,
+          19.2841781
+        ]
+      },
+      "properties": {
+        "name": "229",
+        "address": "Tienda, Calle Sur 6, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9513121,
+          19.2789614
+        ]
+      },
+      "properties": {
+        "name": "295",
+        "address": "Sur 16 547, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9543788,
+          19.2861395
+        ]
+      },
+      "properties": {
+        "name": "177",
+        "address": "C. Sur 4 18, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95170429999999,
+          19.2839799
+        ]
+      },
+      "properties": {
+        "name": "238",
+        "address": "Manzana 029, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95465,
+          19.2848312
+        ]
+      },
+      "properties": {
+        "name": "234",
+        "address": "",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9506091,
+          19.2847079
+        ]
+      },
+      "properties": {
+        "name": "212",
+        "address": "Calle Sur 6 545, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9453977,
+          19.2840232
+        ]
+      },
+      "properties": {
+        "name": "216",
+        "address": "Calle Sur 6 1047, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9541199,
+          19.2796254
+        ]
+      },
+      "properties": {
+        "name": "292",
+        "address": "Manzana 027, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9549136,
+          19.2831412
+        ]
+      },
+      "properties": {
+        "name": "2",
+        "address": "Sur 9 54, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.952567,
+          19.284121799999998
+        ]
+      },
+      "properties": {
+        "name": "237",
+        "address": "Manzana 030, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.94382089999999,
+          19.283790099999997
+        ]
+      },
+      "properties": {
+        "name": "218",
+        "address": "Calle Sur 6 1229, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9538853,
+          19.2793115
+        ]
+      },
+      "properties": {
+        "name": "297",
+        "address": "Sur 16 745, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9435055,
+          19.2844384
+        ]
+      },
+      "properties": {
+        "name": "194",
+        "address": "Av Tlaloc 1560, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9524508,
+          19.2807565
+        ]
+      },
+      "properties": {
+        "name": "284",
+        "address": "Sur 13 239, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9549395,
+          19.2802758
+        ]
+      },
+      "properties": {
+        "name": "8",
+        "address": "Manzana 016, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9550089,
+          19.2825717
+        ]
+      },
+      "properties": {
+        "name": "22",
+        "address": "Sur 11 83, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9527717,
+          19.2822441
+        ]
+      },
+      "properties": {
+        "name": "272",
+        "address": "Sur 11 267, Niños Heroes, Xico, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95397609999999,
+          19.287933
+        ]
+      },
+      "properties": {
+        "name": "122",
+        "address": "Av. Dr. Covarrubias 67, Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9540815,
+          19.2806095
+        ]
+      },
+      "properties": {
+        "name": "286",
+        "address": "Sur 13 286, Niños Heroes, 56610 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95216789999999,
+          19.2822615
+        ]
+      },
+      "properties": {
+        "name": "273",
+        "address": "Casa gonzalez gomez, Sur 10 317, 56617 Valle de Chalco Solidaridad, Méx., México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.95463749999999,
+          19.284388399999997
+        ]
+      },
+      "properties": {
+        "name": "235",
+        "address": "Manzana 032, México",
+        "source": "Google Maps Takeout",
+        "markerColor": "#2878ff",
+        "colonia": "",
+        "seccion": ""
+      }
+    }
+  ]
+}
